@@ -3,10 +3,10 @@
 ## Olá, meu nome é Igor,  tenho 23 anos, sou de Brusque-SC, e estou estudando para me tornar um dev Fullstack. No momento estou buscando emprego na área. Eu iniciei meus estudos na área de tecnologia em um curso tec. em desenvolvimento de sistemas, porém acabei trancando o curso no 3° semestre, mas retomei os estudos aqui na plataforma da alura.
 
 ## Conhecimentos:
-# Python.
-# C#,
-# Javascript,
-# MySQL;
+### Python.
+### C#,
+### Javascript,
+### MySQL;
 
 ## Contatos:
 
