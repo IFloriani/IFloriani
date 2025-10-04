@@ -1,4 +1,4 @@
-## Hi there, my name is Igor Floriani, I have 23 years old and I'am studying to become a dev fullstack.
+## Hi there, my name is Igor Floriani, I have 24 years old and I'am studying to become a dev fullstack.
 
 ###   Olá, meu nome é Igor,  tenho 24 anos, sou de Brusque-SC, atualmente estou cursando 2 graduações. Análise e Desenvolvimento de SIstemas, e Inteligência Artificial e Machine Learning. Estou estou em busca de oportunidades para entrar na área de tecnologia.
 
