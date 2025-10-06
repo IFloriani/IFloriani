@@ -1,6 +1,6 @@
-## Hi there, my name is Igor Floriani, I have 24 years old and I'am studying to become a dev fullstack.
+## Hi there, my name is Igor Floriani, I have 24 years old and I'am studying to become a Game developer.
 
-###   Olá, meu nome é Igor,  tenho 24 anos, sou de Brusque-SC, atualmente estou cursando 2 graduações. Análise e Desenvolvimento de SIstemas, e Inteligência Artificial e Machine Learning. Estou estou em busca de oportunidades para entrar na área de tecnologia.
+###   Olá, meu nome é Igor,  tenho 24 anos, sou de Brusque-SC. Fiz um curso Técnico em Desenvolvimento de sistemas, e atualmente estou estudando pela Alura, DIO, e Udemy. Estou estou em busca de oportunidades para entrar na área de tecnologia.
 
 ## Conhecimentos:
 ### Python.
@@ -9,6 +9,8 @@
 ### MySQL;
 ### HTML
 ### CSS
+### Godot
+### Unity
 
 ## Contatos:
 
